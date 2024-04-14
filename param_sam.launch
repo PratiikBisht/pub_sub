@@ -1,0 +1,3 @@
+<Launch>
+<rosparam command ="Load" file="/home/prateek/catkin_ws/src/pub_sub/config/param_sam.yaml”/>
+</Launch>
